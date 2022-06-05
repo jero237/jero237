@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Alkemy.org project](https://github.com/jero237/alkemy)
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **jeronimobalestra@gmail.com**
 
