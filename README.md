@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jeronimo</h1>
-<h3 align="center">FullStack Web Developer from Argentina</h3>
 
 - 🔭 I’m currently working on [SOUTHWORKS](https://southworks.com/)
 
